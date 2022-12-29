@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Tom\eclipse-workspace\MyWatchFace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="1" lineNum="9" parent="globals/BasicApp" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="1" lineNum="10" parent="globals/BasicApp" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="2" lineNum="13" parent="globals/BasicApp" pc="268435483" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="2" lineNum="14" parent="globals/BasicApp" pc="268435487" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="3" lineNum="18" parent="globals/BasicApp" pc="268435504" symbol="onStart"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="4" lineNum="22" parent="globals/BasicApp" pc="268435509" symbol="onStop"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="5" lineNum="26" parent="globals/BasicApp" pc="268435514" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="5" lineNum="27" parent="globals/BasicApp" pc="268435518" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="6" lineNum="6" parent="globals/BasicApp" pc="268437330" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicApp.mc" id="6" lineNum="6" parent="globals/BasicApp" pc="268437330" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="8" lineNum="55" parent="globals/BasicView" pc="268435556" symbol="initialize"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="8" lineNum="56" parent="globals/BasicView" pc="268435560" symbol="initialize"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="60" parent="globals/BasicView" pc="268435583" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="63" parent="globals/BasicView" pc="268435587" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="64" parent="globals/BasicView" pc="268435606" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="67" parent="globals/BasicView" pc="268435625" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="68" parent="globals/BasicView" pc="268435648" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="70" parent="globals/BasicView" pc="268435670" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="71" parent="globals/BasicView" pc="268435681" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="75" parent="globals/BasicView" pc="268435742" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="76" parent="globals/BasicView" pc="268435791" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="77" parent="globals/BasicView" pc="268435841" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="78" parent="globals/BasicView" pc="268435876" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="84" parent="globals/BasicView" pc="268435911" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="9" lineNum="85" parent="globals/BasicView" pc="268435927" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="10" lineNum="93" parent="globals/BasicView" pc="268435944" symbol="onShow"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="98" parent="globals/BasicView" pc="268435949" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="102" parent="globals/BasicView" pc="268435953" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="103" parent="globals/BasicView" pc="268435970" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="106" parent="globals/BasicView" pc="268436017" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="107" parent="globals/BasicView" pc="268436033" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="108" parent="globals/BasicView" pc="268436049" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="111" parent="globals/BasicView" pc="268436065" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="112" parent="globals/BasicView" pc="268436102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="114" parent="globals/BasicView" pc="268436120" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="116" parent="globals/BasicView" pc="268436137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="120" parent="globals/BasicView" pc="268436153" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="127" parent="globals/BasicView" pc="268436181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="128" parent="globals/BasicView" pc="268436203" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="11" lineNum="130" parent="globals/BasicView" pc="268436215" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="139" parent="globals/BasicView" pc="268436240" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="145" parent="globals/BasicView" pc="268436244" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="146" parent="globals/BasicView" pc="268436287" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="149" parent="globals/BasicView" pc="268436330" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="150" parent="globals/BasicView" pc="268436359" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="156" parent="globals/BasicView" pc="268436399" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="157" parent="globals/BasicView" pc="268436462" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="162" parent="globals/BasicView" pc="268436466" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="163" parent="globals/BasicView" pc="268436491" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="164" parent="globals/BasicView" pc="268436534" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="165" parent="globals/BasicView" pc="268436577" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="167" parent="globals/BasicView" pc="268436590" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="168" parent="globals/BasicView" pc="268436615" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="169" parent="globals/BasicView" pc="268436658" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="170" parent="globals/BasicView" pc="268436701" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="174" parent="globals/BasicView" pc="268436708" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="175" parent="globals/BasicView" pc="268436737" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="181" parent="globals/BasicView" pc="268436774" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="186" parent="globals/BasicView" pc="268436784" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="187" parent="globals/BasicView" pc="268436821" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="188" parent="globals/BasicView" pc="268436864" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="189" parent="globals/BasicView" pc="268436907" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="191" parent="globals/BasicView" pc="268436926" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="192" parent="globals/BasicView" pc="268436963" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="193" parent="globals/BasicView" pc="268437006" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="194" parent="globals/BasicView" pc="268437049" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="198" parent="globals/BasicView" pc="268437062" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="12" lineNum="199" parent="globals/BasicView" pc="268437091" symbol="drawTime"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="205" parent="globals/BasicView" pc="268437129" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="207" parent="globals/BasicView" pc="268437133" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="209" parent="globals/BasicView" pc="268437157" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="211" parent="globals/BasicView" pc="268437164" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="212" parent="globals/BasicView" pc="268437174" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="213" parent="globals/BasicView" pc="268437191" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="13" lineNum="215" parent="globals/BasicView" pc="268437208" symbol="drawTiles"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="14" lineNum="224" parent="globals/BasicView" pc="268437278" symbol="onHide"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="15" lineNum="229" parent="globals/BasicView" pc="268437283" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="15" lineNum="231" parent="globals/BasicView" pc="268437287" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="16" lineNum="237" parent="globals/BasicView" pc="268437298" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="16" lineNum="239" parent="globals/BasicView" pc="268437302" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="16" lineNum="240" parent="globals/BasicView" pc="268437312" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="17" lineNum="14" parent="globals/BasicView" pc="268437379" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Tom\\eclipse-workspace\\MyWatchFace\\source\\BasicView.mc" id="17" lineNum="14" parent="globals/BasicView" pc="268437379" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="2" parent="globals/Rez/Drawables" pc="268437373" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="20" lineNum="6" parent="globals/Rez/Fonts" pc="268437375" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="14" parent="globals/Rez/JsonData" pc="268437377" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="22" parent="globals/Rez/Layouts" pc="268437376" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="24" parent="globals/Rez/Menus" pc="268437374" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="26" parent="globals/Rez/Strings" pc="268437378" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="1" parent="globals/Rez" pc="268437349" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="1" parent="globals/Rez" pc="268437349" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="25" symbol="font_hour_0_29_data"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="36" symbol="canvas_tall"/>
+        <entry id="13" object="true" symbol="BasicView"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="46" symbol="set_date"/>
+        <entry field="true" id="42" symbol="set_theme"/>
+        <entry field="true" id="45" symbol="set_chapter"/>
+        <entry field="true" id="17" symbol="font_dial"/>
+        <entry field="true" id="33" symbol="canvas_rect"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="34" symbol="canvas_circ"/>
+        <entry id="52" method="true" symbol="drawTime"/>
+        <entry field="true" id="27" symbol="AppName"/>
+        <entry field="true" id="8389339" symbol="second"/>
+        <entry field="true" id="37" symbol="vert_layout"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="12" symbol="SCREEN_SHAPE_RECT"/>
+        <entry field="true" id="8389338" symbol="minute"/>
+        <entry field="true" id="18" symbol="font_min_0_29"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="41" symbol="dh_half"/>
+        <entry field="true" id="28" symbol="is_lowpower"/>
+        <entry field="true" id="10" symbol="SCREEN_SHAPE_CIRC"/>
+        <entry id="53" method="true" symbol="drawTiles"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="32" symbol="canvas_shape"/>
+        <entry field="true" id="35" symbol="canvas_semicirc"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="9" object="true" symbol="BasicApp"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="20" symbol="font_hour_0_29"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="38" symbol="dw"/>
+        <entry field="true" id="39" symbol="dh"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389793" method="true" symbol="debug"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="40" symbol="dw_half"/>
+        <entry field="true" id="50" symbol="f_hands"/>
+        <entry field="true" id="49" symbol="seconds_loaded"/>
+        <entry field="true" id="11" symbol="SCREEN_SHAPE_SEMICIRC"/>
+        <entry field="true" id="48" symbol="set_field_2"/>
+        <entry field="true" id="47" symbol="set_field_1"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry field="true" id="19" symbol="font_min_30_59"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="21" symbol="font_hour_30_59"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry field="true" id="26" symbol="font_hour_30_59_data"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="22" symbol="dialData"/>
+        <entry field="true" id="44" symbol="set_leading_zero"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="24" symbol="font_min_30_59_data"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="31" symbol="canvas_w"/>
+        <entry field="true" id="30" symbol="canvas_h"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="51" symbol="current_hand"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="43" symbol="set_layout"/>
+        <entry field="true" id="23" symbol="font_min_0_29_data"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="29" symbol="deviceSettings"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435508" name="state" stackId="1" startPc="268435504"/>
+        <entry arg="true" endPc="268435513" name="state" stackId="1" startPc="268435509"/>
+        <entry arg="true" endPc="268435943" name="dc" stackId="1" startPc="268435583"/>
+        <entry endPc="268436238" name="date" stackId="3" startPc="268435953"/>
+        <entry endPc="268436238" name="clockTime" stackId="2" startPc="268435953"/>
+        <entry arg="true" endPc="268436239" name="dc" stackId="1" startPc="268435949"/>
+        <entry endPc="268437127" name="min" stackId="6" startPc="268436244"/>
+        <entry endPc="268437127" name="hour_is" stackId="4" startPc="268436244"/>
+        <entry endPc="268437127" name="hr_is" stackId="5" startPc="268436244"/>
+        <entry arg="true" endPc="268437128" name="this_y" stackId="3" startPc="268436240"/>
+        <entry arg="true" endPc="268437128" name="this_x" stackId="2" startPc="268436240"/>
+        <entry arg="true" endPc="268437128" name="targetDc" stackId="1" startPc="268436240"/>
+        <entry endPc="268437263" name="xpos" stackId="9" startPc="268437157"/>
+        <entry endPc="268437263" name="char" stackId="8" startPc="268437157"/>
+        <entry endPc="268437263" name="packed_value" stackId="7" startPc="268437157"/>
+        <entry endPc="268437263" name="ypos" stackId="10" startPc="268437157"/>
+        <entry endPc="268437276" name="i" stackId="6" startPc="268437157"/>
+        <entry arg="true" endPc="268437277" name="xoff" stackId="4" startPc="268437129"/>
+        <entry arg="true" endPc="268437277" name="dc" stackId="3" startPc="268437129"/>
+        <entry arg="true" endPc="268437277" name="font" stackId="2" startPc="268437129"/>
+        <entry arg="true" endPc="268437277" name="current_hand" stackId="1" startPc="268437129"/>
+        <entry arg="true" endPc="268437277" name="yoff" stackId="5" startPc="268437129"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="font_dial"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="font_min_0_29"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="font_min_30_59"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="font_hour_0_29"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="font_hour_30_59"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="dialData"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="font_min_0_29_data"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="font_min_30_59_data"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="font_hour_0_29_data"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="font_hour_30_59_data"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/BasicApp" offset="174" parentId="globals" symbolId="BasicApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="253" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="473" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="504" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="575" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BasicView" offset="614" parentId="globals" symbolId="BasicView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435482" name="initialize" parent="BasicApp" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435503" name="onSettingsChanged" parent="BasicApp" startPc="268435483">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435508" name="onStart" parent="BasicApp" startPc="268435504">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435513" name="onStop" parent="BasicApp" startPc="268435509">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435555" name="getInitialView" parent="BasicApp" startPc="268435514">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437348" name="&lt;init&gt;" parent="BasicApp" startPc="268437330">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435582" name="initialize" parent="BasicView" startPc="268435556">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435943" name="onLayout" parent="BasicView" startPc="268435583">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435948" name="onShow" parent="BasicView" startPc="268435944">
+            <documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436239" name="onUpdate" parent="BasicView" startPc="268435949">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437128" name="drawTime" parent="BasicView" startPc="268436240">
+            <param id="targetDc"/>
+            <param id="this_x"/>
+            <param id="this_y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437277" name="drawTiles" parent="BasicView" startPc="268437129">
+            <param id="current_hand"/>
+            <param id="font"/>
+            <param id="dc"/>
+            <param id="xoff"/>
+            <param id="yoff"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437282" name="onHide" parent="BasicView" startPc="268437278">
+            <documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437297" name="onExitSleep" parent="BasicView" startPc="268437283">
+            <documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437328" name="onEnterSleep" parent="BasicView" startPc="268437298">
+            <documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437397" name="&lt;init&gt;" parent="BasicView" startPc="268437379">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437373" name="&lt;init&gt;" parent="Drawables" startPc="268437373">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437375" name="&lt;init&gt;" parent="Fonts" startPc="268437375">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437377" name="&lt;init&gt;" parent="JsonData" startPc="268437377">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437376" name="&lt;init&gt;" parent="Layouts" startPc="268437376">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437374" name="&lt;init&gt;" parent="Menus" startPc="268437374">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437378" name="&lt;init&gt;" parent="Strings" startPc="268437378">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437372" name="&lt;init&gt;" parent="Rez" startPc="268437349">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
